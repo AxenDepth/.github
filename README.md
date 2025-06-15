@@ -1,2 +1,0 @@
-# README
-WHO AM I ?
